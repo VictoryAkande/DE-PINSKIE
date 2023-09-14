@@ -1,6 +1,6 @@
-- 👋 Greetings, I am @DE-PINSKIE.
-- 👀 My primary focus lies in the realm of Artificial Intelligence and Machine Learning.
-- 🌱 Currently, I am engrossed in honing my skills in Python for Data Science & Machine Learning.
+- 👋 Greetings, I am @VictoryGPT.
+- 👀 My primary focus lies in the realm of Artificial Intelligence and Web development.
+- 🌱 Currently, I am engrossed in honing my skills in HTML/CSS/JS for web development & Machine Learning.
 - 💞️ I am open to collaborative opportunities, particularly in the development of websites and applications, alongside my esteemed colleagues.
   
 
