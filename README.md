@@ -1,10 +1,9 @@
-- 👋 Greetings, I am @VictoryGPT.
-- 👀 My primary focus lies in the realm of Artificial Intelligence and Web development.
-- 🌱 Currently, I am engrossed in honing my skills in HTML/CSS/JS for web development & Machine Learning.
-- 💞️ I am open to collaborative opportunities, particularly in the development of websites and applications, alongside my esteemed colleagues.
+👋🏽 Hi! I'm a current college student studying Computing, with a growing passion for data analytics, consulting, and tech.
+
+I'm currently learning tools like Excel, SQL, Power BI, and have explored Python (pandas, numpy) for analyzing real-world datasets from platforms like Kaggle.
+
+I recently attended the Leeds Digital Ball, where I had the chance to network with professionals in the tech industry, a highlight that pushed me even more toward a career in analytics or consulting.
+
+I'm curious, quick to learn, and excited about opportunities to apply what I’m learning in real projects. Open to internships, mentorships, or simply connecting with people in the field.
   
 
-<!---
-DE-PINSKIE/DE-PINSKIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
